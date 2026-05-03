@@ -45,6 +45,8 @@ John Deere is shifting from:
 to:
 - Recurring revenue through software, subscriptions, and analytics  
 
+John Deere’s scale supports this transition, with the company generating approximately $61 billion in annual revenue and investing heavily in research and development to support its digital transformation initiatives.
+
 This transition reflects a broader industry shift toward “as-a-service” models, where companies generate recurring revenue through digital platforms rather than one-time product sales.
 
 ## Key Challenges
