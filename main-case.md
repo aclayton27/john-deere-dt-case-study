@@ -24,6 +24,8 @@ Key investments included:
 - Development of the John Deere Operations Center, a cloud-based platform used by farmers to manage field data  
 - Expansion of precision agriculture offerings, which now represent a major portion of Deere’s Production & Precision Agriculture segment  
 
+These investments were supported by significant financial commitment. By 2023, John Deere reported approximately $61 billion in net sales and continued to invest over $2 billion annually in research and development, much of it focused on automation, artificial intelligence, and precision agriculture technologies.
+
 These innovations allowed farmers to increase efficiency, reduce costs, and improve crop yields. However, they also fundamentally changed Deere’s business model.
 
 Instead of a one-time equipment sale, Deere began shifting toward recurring revenue through software and data services, aligning with broader industry trends toward digital platforms.
@@ -50,7 +52,9 @@ Agriculture is undergoing a major transformation driven by labor shortages, risi
 
 By 2023, John Deere’s Production & Precision Agriculture segment had become one of the company’s largest business units, reflecting a significant shift toward digital and data-driven services.
 
-Industry analysts note that “the future of farming is increasingly data-driven,” with technology playing a central role in improving productivity and sustainability.
+This shift is reflected in Deere’s financial structure, where the Production & Precision Agriculture segment represents the largest share of the company’s overall revenue.
+
+Industry analysts note that agriculture is becoming increasingly data-driven, with technology playing a central role in improving productivity and sustainability.
 
 Technology has become a key differentiator, with companies racing to provide digital solutions that improve productivity.
 
