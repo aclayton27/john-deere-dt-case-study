@@ -5,17 +5,17 @@ Date: May 3, 2026
 
 Task:
 - Selected John Deere as the company
-- Created GitHub repository
-- Structured required files
+- Reviewed assignment instructions and rubric
+- Created GitHub repository and required file structure
 
 AI Tools Used:
-- ChatGPT for outlining project structure and workflow
+- ChatGPT for outlining project structure and understanding requirements
 
 What Worked:
-- Helped quickly organize the assignment requirements
+- Helped quickly organize the assignment workflow and clarify expectations
 
 What I Verified:
-- Confirmed assignment instructions and rubric expectations
+- Confirmed assignment requirements and rubric criteria before starting content development
 
 ---
 
@@ -25,36 +25,67 @@ Task:
 - Drafted main case narrative and technical supplement
 
 AI Tools Used:
-- ChatGPT for drafting and structuring content
+- ChatGPT for generating initial case structure and narrative flow
 
 What Worked:
-- Generated a strong narrative structure and identified key strategic tensions
+- Helped build a strong HBS-style case structure with a clear protagonist and decision point
+- Identified key strategic tensions (data ownership, right-to-repair, platform shift)
 
 What I Verified:
-- Cross-checked transformation themes against Deere reports and industry sources
+- Cross-checked transformation themes against Deere’s public reports and industry trends
 
 Issues Found:
-- Initial drafts lacked specific real-world references and needed stronger grounding in actual events
+- Initial drafts lacked specific real-world references and felt too generalized
 
 Fixes:
-- Added verified references such as CES 2022 autonomous tractor and Blue River acquisition
+- Added concrete examples such as CES 2022 autonomous tractor, Blue River Technology acquisition, and Operations Center platform
 
 ---
 
 ## Session 3 – Source Verification
 
 Task:
-- Built additional sources document and aligned case to real sources
+- Created additional sources document and aligned sources to case narrative
 
 AI Tools Used:
-- ChatGPT for structuring sources and verification mapping
+- ChatGPT for organizing sources and structuring verification
 
 What Worked:
-- Helped organize sources and align them with case claims
+- Helped map sources directly to claims in the case
 
 What I Verified:
 - Confirmed all major claims matched at least one credible source
-- Replaced generic or weak links with official reports and credible documents
+- Ensured sources included official Deere materials and external analysis
+
+Issues Found:
+- Early sources were too general (homepage links) and not acceptable for academic use
+
+Fixes:
+- Replaced all generic links with specific, verifiable documents (annual report, investor presentation, CES announcement, policy documents)
+
+---
+
+## Session 4 – Final Refinement and Validation
+
+Task:
+- Strengthened case study with real financial data and additional detail
+- Conducted final review of all files for alignment with assignment rubric
+
+AI Tools Used:
+- ChatGPT for refining clarity, consistency, and completeness across all deliverables
+
+What Worked:
+- Helped identify where adding quantitative detail improved credibility and depth
+
+What I Verified:
+- Confirmed financial data (revenue and R&D investment) aligned with Deere’s 2023 Annual Report
+- Verified that all links were functional and directly supported the case narrative
+
+Issues Found:
+- Earlier versions lacked sufficient quantitative detail to fully meet “exceptional” rubric expectations
+
+Fixes:
+- Added verified financial figures and strengthened connections between sources and narrative
 
 ---
 
