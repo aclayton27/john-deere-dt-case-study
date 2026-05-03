@@ -20,8 +20,8 @@ https://www.fb.org/files/AFBF_John_Deere_MOU.pdf
 6. Ohio State Farm Office Analysis  
 https://farmoffice.osu.edu/blog/thu-01122023-921pm/john-deere-and-farm-bureau-address-right-repair
 
-7. McKinsey & Company. “Agriculture’s Connected Future”  
-https://www.mckinsey.com/industries/agriculture/our-insights/agriculture-connected-future
+7. McKinsey & Company. “Agriculture’s Connected Future: How Technology Can Yield New Growth.”  
+https://www.mckinsey.com/industries/agriculture/our-insights/agricultures-connected-future-how-technology-can-yield-new-growth
 
 ---
 
@@ -29,7 +29,7 @@ https://www.mckinsey.com/industries/agriculture/our-insights/agriculture-connect
 
 - “We’re really a technology company at this point.” — John May, CEO  
 
-- “The future of farming is increasingly data-driven.” — McKinsey analysis  
+- McKinsey explains that agriculture is entering a new data and connectivity-driven revolution, where AI, analytics, and connected technologies are improving efficiency and productivity  
 
 - “The MOU affirms farmers’ ability to repair their own equipment.” — American Farm Bureau Federation  
 
