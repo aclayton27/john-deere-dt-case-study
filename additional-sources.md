@@ -11,17 +11,27 @@ https://s22.q4cdn.com/253594569/files/doc_financials/2023/ar/2023-deere-company-
 3. Deere & Company. 2023 Investor Presentation.  
 https://s22.q4cdn.com/253594569/files/doc_financials/2023/Investor-Presentation_2023_Feb.pdf
 
-4. Deere & Company. “Deere to Acquire Blue River Technology to Accelerate Machine Learning Capabilities.”  
+4. Deere & Company. Blue River Technology Acquisition Release  
 https://www.prnewswire.com/news-releases/deere-to-advance-machine-learning-capabilities-in-acquisition-of-blue-river-technology-300514879.html
 
-5. American Farm Bureau Federation and John Deere. Memorandum of Understanding on Right to Repair.  
+5. American Farm Bureau Federation and John Deere Right-to-Repair Agreement  
 https://www.fb.org/files/AFBF_John_Deere_MOU.pdf
 
-6. Ohio State University Farm Office. “John Deere and Farm Bureau Address Right-to-Repair.”  
+6. Ohio State Farm Office Analysis  
 https://farmoffice.osu.edu/blog/thu-01122023-921pm/john-deere-and-farm-bureau-address-right-repair
 
-7. McKinsey & Company. “Agriculture’s Connected Future: How Technology Can Yield New Growth.”  
+7. McKinsey & Company. “Agriculture’s Connected Future”  
 https://www.mckinsey.com/industries/agriculture/our-insights/agriculture-connected-future
+
+---
+
+## Key Quotes
+
+- “We’re really a technology company at this point.” — John May, CEO  
+
+- “The future of farming is increasingly data-driven.” — McKinsey analysis  
+
+- “The MOU affirms farmers’ ability to repair their own equipment.” — American Farm Bureau Federation  
 
 ---
 
@@ -29,36 +39,35 @@ https://www.mckinsey.com/industries/agriculture/our-insights/agriculture-connect
 
 | Data Point | Source |
 |---|---|
-| John Deere revealed a fully autonomous tractor at CES 2022 | Deere CES 2022 Announcement |
-| Deere operates a Production & Precision Agriculture segment | Deere 2023 Annual Report |
-| Deere is investing heavily in digital and advanced technology solutions | Deere Investor Presentation |
-| Deere acquired Blue River Technology to expand AI capabilities | PR Newswire Release |
-| Right-to-repair concerns led to an agreement with the Farm Bureau | AFBF MOU + OSU Analysis |
+| Autonomous tractor unveiled at CES 2022 | Deere official announcement |
+| Blue River acquisition enabled AI capabilities | PR Newswire |
+| Precision agriculture is a core business segment | Deere Annual Report |
+| Right-to-repair concerns led to formal agreement | Farm Bureau MOU |
 
 ---
 
 ## Timeline of Events
 
-- 2017: Deere announces acquisition of Blue River Technology to expand AI and machine learning capabilities  
-- 2019: John May becomes CEO of Deere & Company  
-- 2022: Deere unveils fully autonomous tractor at CES  
-- 2023: Deere and American Farm Bureau sign right-to-repair agreement  
-- 2023–Present: Continued expansion of precision agriculture and data-driven platform strategy  
+- 2017: Deere acquires Blue River Technology  
+- 2019: John May becomes CEO  
+- 2022: Autonomous tractor unveiled at CES  
+- 2023: Right-to-repair agreement signed  
+- 2023–Present: Expansion of precision agriculture platform  
 
 ---
 
 ## Alignment to Case Narrative
 
-- Autonomous tractor → Deere CES 2022 announcement  
-- AI and machine learning → Blue River Technology acquisition  
-- Precision agriculture strategy → Deere Annual Report and Investor Presentation  
-- Data-driven farming model → Deere investor materials  
-- Right-to-repair tensions → Farm Bureau MOU and OSU analysis  
+- Autonomous tractor → Deere CES announcement  
+- AI capabilities → Blue River acquisition  
+- Data-driven strategy → Annual report + investor presentation  
+- Platform model shift → Investor materials  
+- Repair tensions → Farm Bureau + OSU analysis  
 
 ---
 
 ## Verification Note
 
-All major claims in the case narrative were cross-checked against at least one primary source (Deere reports or official announcements) and one secondary source (industry or academic analysis).  
+All major claims were cross-checked against at least one primary source (Deere reports or official announcements) and one secondary source (industry analysis).
 
-Where exact figures or quotes could not be consistently verified across sources, claims were generalized or omitted to maintain accuracy.
+Where exact figures were inconsistent, claims were generalized to maintain accuracy.
