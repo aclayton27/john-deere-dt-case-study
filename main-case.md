@@ -20,9 +20,9 @@ John Deere’s transformation centered around precision agriculture — a system
 
 Key investments included:
 - Autonomous tractors capable of operating without human drivers, publicly unveiled at CES 2022  
-- Acquisition of Blue River Technology to expand machine learning capabilities in agriculture  
-- Cloud-based platforms that collect and analyze farm data in real time  
-- Expansion of precision agriculture offerings, now a core part of Deere’s Production & Precision Agriculture segment  
+- Acquisition of Blue River Technology in 2017 to expand machine learning capabilities in agriculture  
+- Development of the John Deere Operations Center, a cloud-based platform used by farmers to manage field data  
+- Expansion of precision agriculture offerings, which now represent a major portion of Deere’s Production & Precision Agriculture segment  
 
 These innovations allowed farmers to increase efficiency, reduce costs, and improve crop yields. However, they also fundamentally changed Deere’s business model.
 
@@ -48,7 +48,7 @@ The company invested heavily into digital capabilities, but the return on invest
 
 Agriculture is undergoing a major transformation driven by labor shortages, rising costs, and the need for higher efficiency.
 
-John Deere’s Production & Precision Agriculture segment represents a significant portion of the company’s overall business, highlighting the growing importance of data-driven farming solutions.
+By 2023, John Deere’s Production & Precision Agriculture segment had become one of the company’s largest business units, reflecting a significant shift toward digital and data-driven services.
 
 Technology has become a key differentiator, with companies racing to provide digital solutions that improve productivity.
 
