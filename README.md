@@ -1,6 +1,6 @@
 # John Deere Digital Transformation Case Study
 
-This repository contains the required documents for my ITEC-617 individual assignment.
+This repository contains the required deliverables for my ITEC-617 individual assignment.
 
 ## Contents
 
