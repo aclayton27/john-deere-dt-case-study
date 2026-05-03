@@ -43,14 +43,16 @@ Self-driving tractors reduce labor dependency and improve efficiency.
 John Deere is shifting from:
 - One-time equipment sales  
 to:
-- Recurring revenue through software, subscriptions, and analytics
+- Recurring revenue through software, subscriptions, and analytics  
+
+This transition reflects a broader industry shift toward “as-a-service” models, where companies generate recurring revenue through digital platforms rather than one-time product sales.
 
 ## Key Challenges
 
-- Resistance from farmers
-- Data privacy concerns
-- High investment costs
-- Competitive pressure
+- Resistance from farmers  
+- Data privacy concerns  
+- High investment costs  
+- Competitive pressure  
 
 ## Glossary
 
