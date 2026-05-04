@@ -6,99 +6,127 @@ Date: May 3, 2026
 Task:
 - Selected John Deere as the company
 - Reviewed assignment instructions and rubric
-- Created GitHub repository and required file structure
+- Created GitHub repository and file structure
 
 AI Tools Used:
-- ChatGPT for outlining project structure and understanding requirements
+- ChatGPT for outlining structure and understanding requirements
 
 What Worked:
-- Helped quickly organize the assignment workflow and clarify expectations
+- Helped organize deliverables and clarify expectations
 
 What I Verified:
-- Confirmed assignment requirements and rubric criteria before starting content development
+- Confirmed all assignment components before starting
 
 ---
 
 ## Session 2 – Case Development
 
 Task:
-- Drafted main case narrative and technical supplement
+- Drafted initial main case narrative and technical supplement
 
 AI Tools Used:
-- ChatGPT for generating initial case structure and narrative flow
+- ChatGPT for generating structure, narrative flow, and identifying strategic tensions
 
 What Worked:
-- Helped build a strong HBS-style case structure with a clear protagonist and decision point
-- Identified key strategic tensions (data ownership, right-to-repair, platform shift)
+- Developed a strong HBS-style case with a clear protagonist and decision point
+- Identified key issues such as data ownership, right-to-repair, and platform transition
 
 What I Verified:
-- Cross-checked transformation themes against Deere’s public reports and industry trends
+- Cross-checked core ideas against Deere’s digital transformation strategy
 
 Issues Found:
-- Initial drafts lacked specific real-world references and felt too generalized
+- Initial drafts were too general and lacked real-world specificity
 
 Fixes:
-- Added concrete examples such as CES 2022 autonomous tractor, Blue River Technology acquisition, and Operations Center platform
+- Added verified examples including CES 2022 autonomous tractor, Blue River acquisition, and Operations Center platform
 
 ---
 
 ## Session 3 – Source Verification
 
 Task:
-- Created additional sources document and aligned sources to case narrative
+- Built additional sources document and aligned sources to case narrative
 
 AI Tools Used:
-- ChatGPT for organizing sources and structuring verification
+- ChatGPT for structuring sources and mapping claims
 
 What Worked:
-- Helped map sources directly to claims in the case
+- Organized sources into categories (financial, industry, policy, company)
 
 What I Verified:
-- Confirmed all major claims matched at least one credible source
-- Ensured sources included official Deere materials and external analysis
+- Ensured all claims matched at least one credible source
+- Confirmed inclusion of required source types:
+  - Executive interviews
+  - Financial filings
+  - News coverage
+  - Industry reports
 
 Issues Found:
-- Early sources were too general (homepage links) and not acceptable for academic use
+- Early sources were generic or not specific enough
 
 Fixes:
-- Replaced all generic links with specific, verifiable documents (annual report, investor presentation, CES announcement, policy documents)
+- Replaced all weak links with direct documents (annual report, investor presentation, policy agreements, McKinsey report)
 
 ---
 
-## Session 4 – Final Refinement and Validation
+## Session 4 – Content Expansion
 
 Task:
-- Strengthened case study with real financial data and additional detail
-- Conducted final review of all files for alignment with assignment rubric
+- Expanded main case to meet 1500–3000 word requirement
+- Expanded technical supplement to meet 500–1500 word requirement
 
 AI Tools Used:
-- ChatGPT for refining clarity, consistency, and completeness across all deliverables
+- ChatGPT for deepening analysis, adding sections, and improving narrative depth
 
 What Worked:
-- Helped identify where adding quantitative detail improved credibility and depth
+- Added sections on organizational challenges, customer adoption, competition, and financial implications
 
 What I Verified:
-- Confirmed financial data (revenue and R&D investment) aligned with Deere’s 2023 Annual Report
-- Verified that all links were functional and directly supported the case narrative
+- Confirmed final word counts met assignment requirements
+- Ensured added content aligned with original case narrative
 
 Issues Found:
-- Earlier versions lacked sufficient quantitative detail to fully meet “exceptional” rubric expectations
+- Earlier versions were below required word count thresholds
 
 Fixes:
-- Added verified financial figures and strengthened connections between sources and narrative
+- Rewrote and expanded both documents to meet required ranges while maintaining quality and clarity
+
+---
+
+## Session 5 – Final Refinement and Validation
+
+Task:
+- Final review of all files for alignment with rubric and assignment expectations
+
+AI Tools Used:
+- ChatGPT for consistency checks and final improvements
+
+What Worked:
+- Strengthened clarity, flow, and overall professionalism
+
+What I Verified:
+- Confirmed financial data aligned with Deere’s 2023 Annual Report
+- Verified all links were functional
+- Ensured all claims were supported by sources
+
+Issues Found:
+- Minor gaps in quantitative detail and source alignment
+
+Fixes:
+- Added financial figures and improved connections between sources and case content
 
 ---
 
 ## Additional Verification Step
 
-During final review, I ensured that all references to digital transformation initiatives (autonomous tractors, AI, and precision agriculture) were directly supported by real company announcements or reports.
+During final review, all references to digital transformation initiatives (autonomous tractors, AI, precision agriculture) were verified against real company announcements and reports.
 
-Any claims that could not be clearly tied to a source were removed or rewritten to maintain accuracy.
+Any unsupported claims were removed or rewritten.
 
 ---
 
 ## Additional Reflection on AI Limitations
 
-During the process, AI initially generated general or non-specific sources that were not acceptable for academic use. These had to be replaced with real, verifiable documents such as official reports and press releases.
+AI initially generated generalized content and non-specific sources that were not acceptable for academic use. These had to be replaced with verified documents.
 
-This highlighted the importance of not relying on AI-generated content without validation, especially when accuracy and credibility are required.
+This reinforced the importance of treating AI as a drafting tool rather than a final source of truth, and highlighted the need for validation, iteration, and critical review.
