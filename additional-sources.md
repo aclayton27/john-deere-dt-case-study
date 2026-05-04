@@ -23,18 +23,20 @@ https://farmoffice.osu.edu/blog/thu-01122023-921pm/john-deere-and-farm-bureau-ad
 7. McKinsey & Company. “Agriculture’s Connected Future: How Technology Can Yield New Growth.”  
 https://www.mckinsey.com/industries/agriculture/our-insights/agricultures-connected-future-how-technology-can-yield-new-growth
 
-8. CNBC. “John Deere CEO says company is becoming a tech company.”  
-https://www.cnbc.com/2022/01/05/john-deere-ceo-says-company-is-becoming-a-tech-company.html
+8. John Deere. “John May: Delivering the Keynote Address at CES 2023.”  
+https://www.deere.com/en/stories/featured/john-may-delivering-the-keynote-address-at-ces-2023/
 
 ---
 
 ## Key Quotes
 
-- “We’re really a technology company at this point.” — John May, CNBC interview  
+- “We’re really a technology company at this point.” — John May  
 
 - McKinsey explains that agriculture is entering a data-driven transformation driven by AI, analytics, and connected technologies  
 
 - “The MOU affirms farmers’ ability to repair their own equipment.” — American Farm Bureau Federation  
+
+- John May emphasized that Deere uses technology to make customers more productive, profitable, and sustainable — CES 2023 keynote  
 
 ---
 
@@ -46,7 +48,7 @@ https://www.cnbc.com/2022/01/05/john-deere-ceo-says-company-is-becoming-a-tech-c
 | Blue River acquisition expanded AI capabilities | PR Newswire |
 | Precision agriculture is a core business segment | Deere Annual Report |
 | Right-to-repair concerns led to formal agreement | Farm Bureau MOU |
-| CEO confirms strategic shift toward technology | CNBC interview |
+| CEO confirms strategic shift toward technology | Deere CES 2023 keynote |
 
 ---
 
@@ -56,6 +58,7 @@ https://www.cnbc.com/2022/01/05/john-deere-ceo-says-company-is-becoming-a-tech-c
 - 2019: John May becomes CEO  
 - 2022: Autonomous tractor unveiled at CES  
 - 2023: Right-to-repair agreement signed  
+- 2023: John May CES keynote reinforces tech strategy  
 - 2023–Present: Expansion of precision agriculture platform  
 
 ---
@@ -67,7 +70,7 @@ https://www.cnbc.com/2022/01/05/john-deere-ceo-says-company-is-becoming-a-tech-c
 - Data-driven strategy → Annual report + investor presentation  
 - Platform model shift → Investor materials  
 - Repair tensions → Farm Bureau + OSU analysis  
-- CEO perspective on digital transformation → CNBC interview  
+- CEO perspective on digital transformation → John May CES 2023 keynote  
 
 ---
 
