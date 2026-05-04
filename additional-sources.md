@@ -23,20 +23,18 @@ https://farmoffice.osu.edu/blog/thu-01122023-921pm/john-deere-and-farm-bureau-ad
 7. McKinsey & Company. “Agriculture’s Connected Future: How Technology Can Yield New Growth.”  
 https://www.mckinsey.com/industries/agriculture/our-insights/agricultures-connected-future-how-technology-can-yield-new-growth
 
-8. CNBC. “John Deere CEO John May on autonomous tractors and the future of farming.”  
-https://www.youtube.com/watch?v=FQ0v6w7bKxw
+8. CNBC. “John Deere CEO says company is becoming a tech company.”  
+https://www.cnbc.com/2022/01/05/john-deere-ceo-says-company-is-becoming-a-tech-company.html
 
 ---
 
 ## Key Quotes
 
-- “We’re really a technology company at this point.” — John May, CEO  
+- “We’re really a technology company at this point.” — John May, CNBC interview  
 
 - McKinsey explains that agriculture is entering a data-driven transformation driven by AI, analytics, and connected technologies  
 
 - “The MOU affirms farmers’ ability to repair their own equipment.” — American Farm Bureau Federation  
-
-- John May emphasized that automation and data will play a central role in the future of farming — CNBC interview  
 
 ---
 
@@ -67,7 +65,7 @@ https://www.youtube.com/watch?v=FQ0v6w7bKxw
 - Autonomous tractor → Deere CES announcement  
 - AI capabilities → Blue River acquisition  
 - Data-driven strategy → Annual report + investor presentation  
-- Platform shift → Investor materials  
+- Platform model shift → Investor materials  
 - Repair tensions → Farm Bureau + OSU analysis  
 - CEO perspective on digital transformation → CNBC interview  
 
